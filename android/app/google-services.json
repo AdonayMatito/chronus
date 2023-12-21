@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "241786628136",
+    "project_id": "chronus-eugjcf",
+    "storage_bucket": "chronus-eugjcf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:241786628136:android:bb340e6ce16b56bf12ad1d",
+        "android_client_info": {
+          "package_name": "com.mycompany.chronus"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlYoQe6vCUvrVAsHjUesjMMhlkrEsZcl8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
